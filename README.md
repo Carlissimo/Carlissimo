@@ -5,6 +5,7 @@
 - <b>Cybersecurity Auditing Project</b>
   - TBA
 <h2> 🤳 Connect with me:</h2>
+[<img align="left" alt="Carlissimo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [linkedin]:https://www.linkedin.com/in/carlosarguetaz
 <!--
 
@@ -18,3 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+;https://raw.githubusercontent.com/joshmadakor1/joshmadakor1/main/README.md
